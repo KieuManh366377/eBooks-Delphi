@@ -1,6 +1,5 @@
 # eBooks-Delphi
-eBooks
-Lưu trữ sách sưu tầm trên Internet ...
+eBooks ... Nguồn Copy Sưu tầm từ Internet ...
 
 Link sau tham khảo code Mẫu
 
